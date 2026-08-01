@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="https://images.pinterest.com/pin/melty-blood-ciel-shingetsutan-tsukihime--579416308294753386/" alt="Ciel Melty Blood Banner" width="100%">
+</p>
+
+
+<p align="center">
   <img src="./assets/banner.gif" width="100%">
 </p>
 
@@ -53,20 +58,6 @@
 </p>
 
 ---
-
-## > Estrutura
-
-```text
-assets/
-└── banner.gif
-
-osint/
-cybersecurity/
-resources/
-
-README.md
-```
-
 ---
 
 <p align="center">
